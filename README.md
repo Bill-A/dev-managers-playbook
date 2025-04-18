@@ -1,6 +1,7 @@
-**A Dev Manager’s Playbook to Harnessing AI Agents**
+## A Dev Manager’s Playbook to Harnessing AI Agents
 
 **Beyond the Hype**
+
 Have you noticed the buzz around AI Agents? The headlines proclaim 2025 as "the year of the AI agent," sparking conversations and, let's be honest, a healthy dose of skepticism. Are these autonomous entities truly game-changers, or is it just another wave of media hyperbole?
 
 Beneath the marketing gloss, AI Agents represent a fundamental shift in our approach to complex software development challenges. As a software development leader, you stand at the forefront of these challenges – navigating the intricate balance between technical debt and feature development, managing the constant pressure to maintain code quality, addressing the necessity to bridge skill gaps within your teams, and pursuing the overarching objective of delivering successful software.
@@ -26,6 +27,7 @@ Let's discuss the personal gains from engaging with The Dev Manager’s Playbook
 * Create a Persistent and Evolving Resource: The cumulative content of the Playbook will form a growing body of knowledge on agentic solutions in software development management. This will serve as a comprehensive resource that you can revisit, offering guidance and inspiration as you encounter new and evolving challenges.
 
 **What You’ll Learn:**
+
 AI agents are everywhere—how can you effectively harness their capabilities for your development team? We will delve into these essential topics and more:
 
 * AI-Enhanced Product Discovery: Learn how AI agents can enhance your product ideation by effectively gathering insights, analyzing data, and fostering more productive and creative brainstorming sessions.

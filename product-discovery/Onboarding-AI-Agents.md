@@ -1,35 +1,34 @@
-### Product Discovery Brief: Onboarding AI Agents for Product Discovery Brainstorming  
+### Onboarding AI Agents for Product Discovery Brainstorming Brief  
 
 ---
 
 #### **1. Problem Statement**  
-Our software development team is tasked with brainstorming ideas for a new product, but our current process is limited by time constraints, repetitive ideation patterns, and difficulty analyzing large datasets for insights. We want to explore how AI agents can enhance creativity, provide data-driven suggestions, and streamline the brainstorming process. However, the team has no prior experience with AI agents, making it crucial to establish a clear onboarding and integration plan.
+Our software development team is tasked with chartering new products, but our current process is limited by time constraints, repetitive ideation patterns, and difficulty analyzing large datasets for insights. We want to explore how AI agents can enhance creativity, provide data-driven suggestions, and streamline the brainstorming process. However, the team has no prior experience with AI agents, making it crucial to establish a clear onboarding and integration plan.
 
 ---
 
 #### **2. Goals for Onboarding AI Agents**  
 - Introduce AI agents as collaborative tools to assist in product discovery activities.  
 - Train the team to effectively utilize AI agents for generating innovative ideas and analyzing user needs.  
-- Ensure seamless integration of AI agents into existing workflows without disrupting productivity.  
-- Validate the value of AI agents in improving the quality and efficiency of brainstorming sessions.
+- Determine the ROI of AI agents in improving the quality and efficiency of brainstorming sessions.
 
 ---
 
 #### **3. Roles AI Agents Will Play in the Brainstorming Process**  
-- **Idea Generation:** Provide diverse, creative suggestions based on prompts or problem statements.  
-- **Data Analysis:** Analyze user feedback, market trends, and competitor data to identify opportunities.  
+- **Product Discovery Guidance:** helping teams clarify problem statements, identify user needs, surface assumptions, generate hypotheses, and recommend research methods to validate ideas.  
+- **Data Analysis:** Analyze market trends, user behavior, and competitor intelligence to uncover innovation opportunities.  
 - **Pattern Recognition:** Highlight recurring themes or gaps in brainstorming sessions to inspire new directions.  
-- **Facilitation Support:** Act as a virtual assistant to structure brainstorming sessions and ensure alignment with goals.
+- **Facilitation Support:** Serve as a dynamic co-facilitator by structuring brainstorming flows, prompting divergent and convergent thinking, and maintaining alignment with defined objectives.
 
 ---
 
 #### **4. Key Steps for Onboarding and Integration**  
 
 1. **Research and Select AI Tools**  
-   - Identify AI tools suited for brainstorming (e.g., ChatGPT, Jasper, or specialized ideation platforms).  
+   - Identify AI tools suited for brainstorming (e.g., ChatGPT, Miro, or specialized ideation platforms).  
    - Ensure compatibility with existing team tools (e.g., Slack, Jira, Notion).  
 
-2. **Define Use Cases**  
+2. **Define Scenarios**  
    - Outline specific scenarios where AI agents will contribute (e.g., generating product ideas, analyzing customer pain points).  
 
 3. **Pilot Testing**  

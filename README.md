@@ -41,7 +41,7 @@ Ready to seize the AI Agent revolution? We invite you to participate in any or a
 
 * Attend a hands-on workshop. Sign up for the upcoming [Build Better Together \- Chicago conference](https://www.tickettailor.com/events/dojoandco/1566183).
 
-* Browse our free self-paced learning [Dev Manager's Playbook YouTube channel](https://bit.ly/dev_manager_playbook)
+* Browse our free self-paced learning [Dev Manager's Playbook YouTube channel]([https://bit.ly/dev_manager_playbook](https://www.youtube.com/playlist?list=PLRjqeuW_WYYDcVbwKfSVZHq4HNvXXXTmj)
 
 * Join us for a talk that will showcase the real-world impacts of development managers incorporating AI agents into their software development teams.
 
